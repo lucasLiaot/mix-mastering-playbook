@@ -1,4 +1,4 @@
-# Mixing Playbook
+# Mixing/Mastering Playbook
 
 Personal documentation of my approach to mixing and mastering.
 
